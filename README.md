@@ -19,10 +19,10 @@ Student_Management/
 ├── main.py
 ├── database.py
 
-## Output
-
-![Output](output.png)
-
 ## How to Run
 
 python main.py
+
+## Output
+
+![Output](output.png)
